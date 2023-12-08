@@ -45,7 +45,7 @@ cmd({
 
                 caption: `
 
-*⦁──👑𝙑𝘼𝙅𝙄𝙍𝘼 𝙎𝙀𝙏𝙏𝙄𝙉𝙂 𝙇𝙄𝙎𝙏👑──⦁*
+ᴷᴵᴺᴳ ʸᴬᵀᴼ
 
 1♻️➣ To put Antilink type :
 Eg:- .set ANTILINK:false
@@ -87,13 +87,13 @@ Eg:- .set OPENAI_API_KEY:put open api key
 Eg:- .set OWNER_NUMBER:put any name
 
 14♻️➣ To put Owner number type :
-Eg:- .set OWNER_NUMBER:94766943622
+Eg:- .set OWNER_NUMBER:918250895584
 
 15♻️➣ To put Pack info type :
-Eg:- .set PACK_INFO:put any name
+Eg:- .set PACK_INFO:ᴷᴵᴺᴳ ʸᴬᵀᴼ
 
 16♻️➣ To put prefix type :
-Eg:- .set PREFIX:.
+Eg:- .set PREFIX:/
 
 17♻️➣ To on/off Auto Read message type :
 Eg:- .set READ_MESSAGE:false/true
@@ -104,8 +104,8 @@ Eg:- .set THUMB_IMAGE:put image url
 19♻️➣ To public/privert  type :
 Eg:- .set WORKTYPE:public/privet
 
-*ᴋɪɴɢ ᴠᴀᴊɪʀᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ*
-*▶ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴡᴍʀ ᴠᴀᴊɪʀᴀ ◀*
+*ᴷᴵᴺᴳ ʸᴬᵀᴼᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ*
+*▶ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Ꮖᖇᝪᑎᗰᗩᑎ ◀*
 `,
 
                 footer: tlang().footer,
